@@ -85,7 +85,7 @@ Destroy method is same for all widgets:
 ```c
 my_widget.destroy();
 ```
-```NOTE:``` Call destroy only if create method called before.
+```NOTE:``` Call destroy only when create method called before.
 
 ### Dynamically creating
 ```c
