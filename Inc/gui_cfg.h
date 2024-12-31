@@ -1,5 +1,3 @@
-
-#define GUI_CFG_USE_ID 1
 #define GUI_CFG_DISPLAY_W   128
 #define GUI_CFG_DISPLAY_H   64
 
